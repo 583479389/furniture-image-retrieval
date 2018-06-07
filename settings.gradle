@@ -1,0 +1,10 @@
+rootProject.name = 'furniture-image-retrieval'
+include 'image-retrieval'
+include 'furniture-web'
+include 'furniture-service'
+include 'furniture-api'
+include 'furniture-web'
+include 'furniture-common'
+include 'furniture-service'
+include 'furniture-domain'
+
