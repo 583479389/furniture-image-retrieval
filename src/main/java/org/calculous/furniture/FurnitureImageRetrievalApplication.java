@@ -1,3 +1,4 @@
+/*
 package org.calculous.furniture;
 
 import org.springframework.boot.SpringApplication;
@@ -10,3 +11,4 @@ public class FurnitureImageRetrievalApplication {
 		SpringApplication.run(FurnitureImageRetrievalApplication.class, args);
 	}
 }
+*/
