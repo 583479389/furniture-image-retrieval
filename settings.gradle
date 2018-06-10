@@ -5,6 +5,6 @@ include 'furniture-web',
         'furniture-common',
         'furniture-service',
         'furniture-domain',
-        'LIRE',
-        'liresolr'
+        'LIRE',// https://github.com/583479389/LIRE
+        'liresolr' // https://github.com/583479389/liresolr
 
