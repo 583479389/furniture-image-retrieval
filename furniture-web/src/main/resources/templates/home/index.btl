@@ -1,0 +1,11 @@
+<html>
+<body>
+<h1>Beetl测试</h1>
+<%
+var a = 2;
+var b = 3;
+var result = a+b;
+%>
+hello 2+3=${result}
+</body>
+</html>
