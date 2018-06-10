@@ -24,9 +24,20 @@ hs_err_pid*
 
 # IntelliJ IDEA Files
 .idea/
-.gradle/
 *.iml
+*.iml
+*.iws
 
+# Gradle Files
+.gradle/
+
+# Maven Files
+.maven/
+
+# Build Files
+build/
+
+# lire
 liresolr/
 LIRE/
 
