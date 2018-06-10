@@ -6,7 +6,7 @@ furniture-common
 funiture-domain
 Mariadb
 BeetlSQL
-ElasticSearch
+ElasticSearch or Solr
 LIRE
 
 furniture-api
@@ -21,3 +21,4 @@ SpringBoot
 Beetl
 
 
+Dubbo or Spring Cloud

@@ -1,3 +1,10 @@
 rootProject.name = 'furniture-image-retrieval'
-include 'furniture-web','furniture-service','furniture-api','furniture-common','furniture-service','furniture-domain'
+include 'furniture-web',
+        'furniture-service',
+        'furniture-api',
+        'furniture-common',
+        'furniture-service',
+        'furniture-domain',
+        'LIRE',
+        'liresolr'
 
