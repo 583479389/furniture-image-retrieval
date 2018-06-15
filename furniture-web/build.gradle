@@ -1,8 +1,8 @@
 apply plugin: 'org.springframework.boot'
 
 dependencies {
-    compile project(":furniture-common")
-    compile project(":furniture-api")
+    compile project(':furniture-common')
+    compile project(':furniture-api')
     compile('org.springframework.boot:spring-boot-starter-web:2.0.2.RELEASE')
     compile('com.ibeetl:beetl:2.8.4')
     runtime('org.springframework.boot:spring-boot-devtools:2.0.2.RELEASE')
