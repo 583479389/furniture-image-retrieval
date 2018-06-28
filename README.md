@@ -1,22 +1,22 @@
-# furniture-image-retrieval
+# image-retrieval
 
-furniture-common
+image-common
 
 
-funiture-domain
+image-domain
 Mariadb
 BeetlSQL
 ElasticSearch or Solr
 LIRE
 
-furniture-api
+image-api
 
 
-furniture-service
+image-service
 SpringBoot
 
 
-furniture-web
+image-web
 SpringBoot
 Beetl
 
