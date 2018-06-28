@@ -1,10 +1,10 @@
-rootProject.name = 'furniture-image-retrieval'
-include 'furniture-web',
-        'furniture-service',
-        'furniture-api',
-        'furniture-common',
-        'furniture-service',
-        'furniture-domain',
+rootProject.name = 'image-retrieval'
+include 'image-web',
+        'image-service',
+        'image-api',
+        'image-common',
+        'image-service',
+        'image-domain',
         'LIRE', // https://github.com/583479389/LIRE
         'liresolr' // https://github.com/583479389/liresolr
 
